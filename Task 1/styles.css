@@ -203,3 +203,12 @@ a{
   left: 50%;
 }
 
+@media (max-width:1000px) {
+  .page-header {
+    padding-top: 30px;
+    color: var(--bgOrange);
+    text-align: center;
+    font-size: 40px;
+  }
+}
+
